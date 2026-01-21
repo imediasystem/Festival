@@ -582,6 +582,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   font-family: 'Tenor Sans', sans-serif;
   font-size: 1.1rem;
@@ -1377,7 +1380,7 @@ a {
 .cid-sFHuaHz0Qy {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #d2fdff;
+  background-color: #fff0b0;
 }
 .cid-sFHuaHz0Qy .card-wrapper {
   background: #ffffff;
@@ -1410,7 +1413,7 @@ a {
 .cid-sFHu4seZjP {
   padding-top: 4rem;
   padding-bottom: 5rem;
-  background: #d2fdff;
+  background: #ffffff;
 }
 .cid-sFHu4seZjP .google-map {
   height: 30rem;
@@ -1443,7 +1446,7 @@ a {
 .cid-sFHu2wLoQp {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #d2fdff;
+  background-color: #fff0b0;
   overflow: hidden;
 }
 .cid-sFHu2wLoQp .row .mbr-text {
