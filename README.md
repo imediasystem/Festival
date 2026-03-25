@@ -1,7 +1,8 @@
 <img width="1902" height="927" alt="Zrzut ekranu 2025-10-20 163412" src="https://github.com/user-attachments/assets/f53274c3-e5d5-4789-9aae-d47df12ae515" />
 
 ## 🔥 Project Name - FESTIVAL
-See the live version of [FESTIVAL](https://imediasystem.github.io/Festival/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Festival/)
 
 I build high-impact, fully responsive websites using HTML, CSS, JavaScript, and Bootstrap - just like the one I created for a guitar festival. If you need a site that offers flawless performance on any device and a professional look that captures attention, let's talk about your project.
 
